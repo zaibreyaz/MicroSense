@@ -13,7 +13,7 @@ MicroSense: The Micro Expression Detector is a deep learning-based project desig
 ## Installation
 1. *Clone the repository*
     ```python
-    git clone https://github.com/zaibreyaz/Prama.git
+    git clone https://github.com/zaibreyaz/MicroSense.git
     ```
 2. Make sure you have python 3.11 and pip installed in your machine.
 3. Install the required dependencies using pip:
