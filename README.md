@@ -33,8 +33,6 @@ MicroSense: The Micro Expression Detector is a deep learning-based project desig
 - **Multi-Modal Analysis**: Integrate additional data modalities, such as audio or text, to provide a more comprehensive analysis of micro-expressions in context.
 - **User Customization**: Allow users to customize detection thresholds and settings based on specific use cases or environments.
 - **Mobile Deployment**: Investigate options for deploying the model on mobile devices to make micro-expression detection accessible on-the-go.
-- **Enhanced Visualization**: Develop advanced visualization tools to display detected micro-expressions over time, helping users understand emotional transitions.
-- **Integration with Other Systems**: Explore potential integration with psychological analysis tools or security systems to broaden application scope.
 
 These enhancements aim to improve the utility, accessibility, and accuracy of the MicroSense project, making it a valuable resource for various fields.
 
